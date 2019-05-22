@@ -1,0 +1,9 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "My first project",
+  "dependencies": {
+    "express": "^4.17.0",
+    "webrtc.io": "0.0.4"
+  }
+}
